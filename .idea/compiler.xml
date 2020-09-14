@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="toeic-core-commom" />
         <module name="toeic-core-utils" />
+        <module name="toeic-core-persistence-data" />
         <module name="toeic-core-service-impl" />
         <module name="toeic-core-dao-impl" />
         <module name="toeic-core-dao" />
